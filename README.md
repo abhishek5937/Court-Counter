@@ -1,4 +1,4 @@
-# Court Counter Sample App
+# Court Counter Sample Android App
 Keeps track of basketball scores for two teams.
 
 # Getting Started
